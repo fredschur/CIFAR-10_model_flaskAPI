@@ -3,11 +3,11 @@
 ## Configuração do Ambiente
 Bibliotecas Utilizadas:
 
-TensorFlow
-Flask
-pyngrok
-requests
-Pillow (PIL)
+- TensorFlow
+- Flask
+- pyngrok
+- requests
+- Pillow (PIL)
 
 ## Modelo:
 
